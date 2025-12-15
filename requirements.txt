@@ -1,0 +1,4 @@
+botasaurus
+capsolver
+requests
+python-dotenv

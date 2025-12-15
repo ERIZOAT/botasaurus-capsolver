@@ -183,6 +183,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 🔗 Resources
 
 - [Botasaurus GitHub Repository](https://github.com/omkarcloud/botasaurus)
-- [CapSolver Dashboard](https://dashboard.capsolver.com/dashboard/overview/?utm_source=github&utm_medium=readme&utm_campaign=botasaurus)
+- [CapSolver Dashboard](https://dashboard.capsolver.com/dashboard/overview/?utm_source=github&utm_medium=readme&utm_campaign=manus-rewrite-botasaurus)
 - [CapSolver Captcha Detector Extension](https://chromewebstore.google.com/detail/capsolver-captcha-solver)
 - [Guide on Identifying Captcha Parameters](https://www.capsolver.com/blog/Extension/identify-any-captcha-and-parameters)
